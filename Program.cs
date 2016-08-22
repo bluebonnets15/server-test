@@ -6,7 +6,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! I'm making a different change!");
+            Console.WriteLine("Hello World! I'm changing the text.");
         }
     }
 }
